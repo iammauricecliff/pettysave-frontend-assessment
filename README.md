@@ -1,4 +1,4 @@
-# fav-explora
+# fav-explora 
 
 ## Project setup
 ```
